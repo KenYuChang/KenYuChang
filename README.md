@@ -18,7 +18,7 @@ Enjoy your day🥳🥳🥳
 
 ## 💡 Projects
 - [Simple Twitter](https://github.com/KenYuChang/twitter-api-2020)
-- [Expense-Tracker]([https://ms314006.github.io/hangman/dist/](https://github.com/KenYuChang/Expense-Tracker/tree/master))
+- [Expense-Tracker](https://github.com/KenYuChang/Expense-Tracker/tree/master)
 
 ## 🔗 Get in touch
 - LinkedIn: https://www.linkedin.com/in/ken-yu-chang-084032201/
