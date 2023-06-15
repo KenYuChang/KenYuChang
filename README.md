@@ -1,16 +1,23 @@
-### Hi there 👋
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Ken #ms314006
 
-<!--
-**KenYuChang/KenYuChang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there👋
+My name is Ken. I am a freshman of backend developer, currently living in Taiwan. I would like to meet the people who are realy good at coding and learn lots of things from them. I have outing and optimistic personality, and like exercising, especially martial art. 
+Enjoy your day🥳🥳🥳
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Goals of 2023 
+👊 Become a professional backend developer, and learn enjoy my coding journey!
+
+
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- HTML5, Handlebars, CSS, JavaScript, Bootstraps
+- Node.js, Express.js, MySQL, MongoDB
+
+
+## 💡 Projects
+- [Simple Twitter](https://github.com/KenYuChang/twitter-api-2020)
+- [Expense-Tracker]([https://ms314006.github.io/hangman/dist/](https://github.com/KenYuChang/Expense-Tracker/tree/master))
+
+## 🔗 Get in touch
+- LinkedIn: https://www.linkedin.com/in/ken-yu-chang-084032201/
