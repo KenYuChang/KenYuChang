@@ -12,7 +12,8 @@ Enjoy your day🥳🥳🥳
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5, Handlebars, CSS, JavaScript, Bootstraps
-- Node.js, Express.js, MySQL, MongoDB
+- Node.js, Express.js, MySQL, MongoDB, Restful API
+- Heroku, Postman
 
 
 ## 💡 Projects
