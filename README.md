@@ -1,7 +1,7 @@
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Ken
 
 Hi there👋
-My name is Ken. I am a freshman of backend developer, currently living in Taiwan. I would like to meet the people who are realy good at coding and learn lots of things from them. I have outing and optimistic personality, and like exercising, especially martial art. 
+My name is Ken. I am a freshman of backend developer, currently living in Taiwan. I would like to meet the people who are realy good at coding and learn lots of things from them. I have outgoing and optimistic personality, and like exercising, especially martial art. 
 Enjoy your day🥳🥳🥳
 
 
