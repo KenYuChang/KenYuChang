@@ -6,7 +6,7 @@ Enjoy your day🥳🥳🥳
 
 
 ## 🔭 Goals of 2023 
-👊 Become a professional backend developer, and learn enjoy my coding journey!
+👊 Become a professional backend developer, and enjoy my coding journey!
 
 
 ## 🧠 That I know and use
