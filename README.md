@@ -19,6 +19,7 @@ Enjoy your day🥳🥳🥳
 ## 💡 Projects
 - [Simple Twitter](https://github.com/KenYuChang/twitter-api-2020)
 - [Expense-Tracker](https://github.com/KenYuChang/Expense-Tracker/tree/master)
+- [GymShark](https://github.com/KenYuChang/GymShark)
 
 ## 🔗 Get in touch
 - LinkedIn: https://www.linkedin.com/in/ken-yu-chang-084032201/
