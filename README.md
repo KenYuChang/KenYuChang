@@ -12,9 +12,9 @@ I am a optimistic, outgoing and sporting guy, but sometimes love to stay in spec
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
-- HTML5, Handlebars, CSS, JavaScript, Bootstraps
-- Node.js, Express.js, MySQL, MongoDB, Restful API
-- Heroku, Postman
+- HTML5, CSS, React, Redux Toolkit, JavaScript, Bootstraps
+- Node.js, Express.js, MySQL, MongoDB, Firestore, Restful API
+- Heroku, Render, Postman, Git
 
 
 ## 💡 Projects
