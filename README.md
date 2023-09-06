@@ -19,7 +19,7 @@ I am a optimistic, outgoing and sporting guy, but sometimes love to stay in spec
 
 ## 💡 Projects
 - [E-SHOP](https://github.com/KenYuChang/E-SHOP)
-- - [GymShark](https://github.com/KenYuChang/GymShark)
+- [GymShark](https://github.com/KenYuChang/GymShark)
 - [Simple Twitter](https://github.com/KenYuChang/twitter-api-2020)
 
 ## 🔗 Get in touch
