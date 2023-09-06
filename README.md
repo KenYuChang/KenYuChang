@@ -1,12 +1,13 @@
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Ken
 
 Hi there👋
-My name is Ken. I am a freshman of backend developer, currently living in Taiwan. I would like to meet the people who are really good at coding and learn lots of things from them. I have outgoing and optimistic personality, and like exercising, especially martial art. 
-Enjoy your day🥳🥳🥳
+My name is Ken. 
+I am a junior backend developer, currently living in Taiwan. 
+I am a optimistic, outgoing and sporting guy, but sometimes love to stay in specific place to learn codeing, mostly coffee shop lol
 
 
 ## 🔭 Goals of 2023 
-👊 Become a professional backend developer, and enjoy my coding journey!
+👊 Become a professional backend developer, and enjoy working with code!
 
 
 ## 🧠 That I know and use
@@ -17,9 +18,9 @@ Enjoy your day🥳🥳🥳
 
 
 ## 💡 Projects
+- [E-SHOP](https://github.com/KenYuChang/E-SHOP)
+- - [GymShark](https://github.com/KenYuChang/GymShark)
 - [Simple Twitter](https://github.com/KenYuChang/twitter-api-2020)
-- [Expense-Tracker](https://github.com/KenYuChang/Expense-Tracker/tree/master)
-- [GymShark](https://github.com/KenYuChang/GymShark)
 
 ## 🔗 Get in touch
 - LinkedIn: https://www.linkedin.com/in/ken-yu-chang-084032201/
