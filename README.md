@@ -3,7 +3,7 @@
 Hi there👋
 My name is Ken. 
 I am a junior backend developer, currently living in Taiwan. 
-I am a optimistic, outgoing and sporting guy, but sometimes love to stay in specific place to learn codeing, mostly coffee shop lol
+I am a optimistic, outgoing and sporting guy, but sometimes love to stay in specific place to learn coding, mostly coffee shop lol
 
 
 ## 🔭 Goals of 2023 
