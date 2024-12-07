@@ -1,26 +1,34 @@
-## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Ken
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Ken Chang
 
-Hi there👋
-My name is Ken. 
-I am a junior backend developer, currently living in Taiwan. 
-I am a optimistic, outgoing and sporting guy, but sometimes love to stay in specific place to learn coding, mostly coffee shop lol
+Hello, my name is Ken Chang. I am a software engineer with over one year of experience, primarily focused on defense and military software development, specializing in desktop application development and system integration. Possesses comprehensive project testing experience, including unit testing, automated test development, test planning and execution, and has been fully involved in project development processes from 0 to 1. Also skilled in web backend development, capable of independently completing system analysis, design, and implementation while ensuring code quality.
 
-
-## 🔭 Goals of 2023 
-👊 Become a professional backend developer, and enjoy working with code!
-
-
-## 🧠 That I know and use
-### 📚 Langues and Frameworks
-- HTML5, CSS, React, Redux Toolkit, JavaScript, Bootstraps
-- Node.js, Express.js, MySQL, MongoDB, Firestore, Restful API
-- Heroku, Render, Postman, Git
-
+## 📚 Langues and Frameworks
+### Backend Development
+- Programming Languages: Java, Node.js, Python
+- Frameworks: Spring Boot, Express.js
+- API Development: RESTful API, GraphQL
+### Database
+- RDBMS: MySQL, SQLite
+- NoSQL: MongoDB
+### Frontend Development
+- Web Technologies: HTML5, CSS, JavaScript
+- Template Engine: Handlebars
+- Desktop Application: JavaFX
+### Automated Testing
+- Unit Testing Frameworks: Mocha / Sinon
+- API Documentation & Testing: Swagger, Postman
+- UI Testing: JavaFX Event Simulation
+### DevOps & Tools
+- Version Control: Git
+- Operating Systems: Linux, Windows, MacOS
+### Software Project Management
+- Agile Development: Scrum
+- Project Planning: WBS
+- Collaboration Tool: Notion
 
 ## 💡 Projects
-- [E-SHOP](https://github.com/KenYuChang/E-SHOP)
-- [GymShark](https://github.com/KenYuChang/GymShark)
-- [Simple Twitter](https://github.com/KenYuChang/twitter-api-2020)
+- Course Broadcasting System
+- Database Management System
 
 ## 🔗 Get in touch
 - LinkedIn: https://www.linkedin.com/in/ken-yu-chang-084032201/
